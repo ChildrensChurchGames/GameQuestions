@@ -1,0 +1,52 @@
+{
+	"all_categories": [
+		"Old Testament", 
+		"Families", 
+		"Patriarchs", 
+		"Friendship", 
+		"Kings", 
+		"Life of Christ", 
+		"Miracles of Jesus", 
+		"New Testament",
+		"Early Church",
+		"Paul's Letters",
+		"Judges",
+		"Exodus",
+		"Prophets",
+		"In the Begining",
+		"Complete the verse",
+		"Cool Facts",
+		"Old Testament Quotes",
+		"New Testament Quotes",
+		"Revelation",
+		"New Testament Geography",
+		"Old Testament Geography",
+		"Name that Book"
+	],
+	
+	"0": {
+		"question": "How many sons did Isaac have?",
+		"difficulty": "3",
+		"type": "multiple",
+		"categories": ["Old Testament", "Families", "Patriarchs"],
+		"correct_answer": "2",
+		"incorrect_answers": [
+			"3",
+			"7",
+			"12"
+		]
+	},
+	
+	"1": {
+		"question": "Who was David's best friend",
+		"difficulty": "5",
+		"type": "multiple",
+		"categories": ["Old Testament", "Friendship", "Kings"],
+		"correct_answer": "Jonathon",
+		"incorrect_answers": [
+			"Joab",
+			"Eliab",
+			"Saul",
+		]
+	}
+}

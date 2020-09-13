@@ -13,7 +13,7 @@
 		"Judges",
 		"Exodus",
 		"Prophets",
-		"In the Begining",
+		"In the Beginning",
 		"Complete the verse",
 		"Cool Facts",
 		"Old Testament Quotes",
@@ -26,8 +26,7 @@
 	
 	"0": {
 		"question": "How many sons did Isaac have?",
-		"difficulty": "3",
-		"type": "multiple",
+		"difficulty": 3,
 		"categories": ["Old Testament", "Families", "Patriarchs"],
 		"correct_answer": "2",
 		"incorrect_answers": [
@@ -38,15 +37,26 @@
 	},
 	
 	"1": {
-		"question": "Who was David's best friend",
-		"difficulty": "5",
-		"type": "multiple",
+		"question": "Who was David's best friend?",
+		"difficulty": 5,
 		"categories": ["Old Testament", "Friendship", "Kings"],
 		"correct_answer": "Jonathon",
 		"incorrect_answers": [
 			"Joab",
 			"Eliab",
-			"Saul",
+			"Saul"
+		]
+	},
+	
+	"2": {
+		"question": "What did God create on the first day?",
+		"difficulty": 1,
+		"categories": ["Old Testament", "In the Beginning"],
+		"correct_answer": "Light",
+		"incorrect_answers": [
+			"Plants",
+			"Birds",
+			"Dry Land"
 		]
 	}
 }
